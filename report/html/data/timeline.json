@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-PD2IIJ4",
+    "children" : [ {
+      "name" : "9704-MainThread",
+      "children" : [ {
+        "name" : "D:\\jenkins\\scripts.test_login.TestLogin.test_login3",
+        "uid" : "1b9c83836346def1",
+        "parentUid" : "c1c9228ca683e16beee2072d4970ea04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1557113926816,
+          "stop" : 1557113926816,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\jenkins\\scripts.test_login.TestLogin.test_login1",
+        "uid" : "2d9b9815ddf0edfd",
+        "parentUid" : "c1c9228ca683e16beee2072d4970ea04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1557113926725,
+          "stop" : 1557113926725,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "D:\\jenkins\\scripts.test_login.TestLogin.test_login2",
+        "uid" : "d94e13e34257ee67",
+        "parentUid" : "c1c9228ca683e16beee2072d4970ea04",
+        "status" : "failed",
+        "time" : {
+          "start" : 1557113926725,
+          "stop" : 1557113926816,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1c9228ca683e16beee2072d4970ea04"
+    } ],
+    "uid" : "e97ba38b4d01be454a9bb34cb1b17f74"
+  } ]
+}

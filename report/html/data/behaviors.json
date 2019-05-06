@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "D:\\jenkins\\scripts.test_login.TestLogin.test_login1",
+    "uid" : "2d9b9815ddf0edfd",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1557113926725,
+      "stop" : 1557113926725,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "D:\\jenkins\\scripts.test_login.TestLogin.test_login2",
+    "uid" : "d94e13e34257ee67",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1557113926725,
+      "stop" : 1557113926816,
+      "duration" : 91
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "D:\\jenkins\\scripts.test_login.TestLogin.test_login3",
+    "uid" : "1b9c83836346def1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1557113926816,
+      "stop" : 1557113926816,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,53 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1557113926725" stop="1557113926816">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1557113926725" status="passed" stop="1557113926725">
+      <name>D:\jenkins\scripts.test_login.TestLogin.test_login1</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9704-MainThread"/>
+        <label name="host" value="DESKTOP-PD2IIJ4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1557113926725" status="failed" stop="1557113926816">
+      <name>D:\jenkins\scripts.test_login.TestLogin.test_login2</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_login.TestLogin object at 0x04621990&gt;
+
+    def test_login2(self):
+        print("test_login2")
+&gt;       assert 0
+E       assert 0
+
+scripts\test_login.py:9: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9704-MainThread"/>
+        <label name="host" value="DESKTOP-PD2IIJ4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1557113926816" status="passed" stop="1557113926816">
+      <name>D:\jenkins\scripts.test_login.TestLogin.test_login3</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="9704-MainThread"/>
+        <label name="host" value="DESKTOP-PD2IIJ4"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
